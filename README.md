@@ -1,2 +1,2 @@
 # OpenCV Experimentation
-Experimentation with Python's openCV
+Experimentation with Python's openCV.
